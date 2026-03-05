@@ -14,9 +14,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=groudboss26)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=groudboss26&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groudboss26)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groudboss26&layout=compact&theme=tokyonight)
 
 📫 Contato
 - LinkedIn: (https://www.linkedin.com/in/guilherme-silva-5bab36175/)
