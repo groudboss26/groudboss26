@@ -12,7 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
 
-## 📊 Estatísticas do GitHub
+
 
 ## 📊 Estatísticas do GitHub
 
