@@ -14,4 +14,4 @@
 - Registro de Glicose
 
 📫 Contato
-- LinkedIn: (https://www.linkedin.com/in/guilherme-silva)
+- LinkedIn: (https://www.linkedin.com/in/guilherme-silva-5bab36175/)
