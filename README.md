@@ -16,9 +16,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=groudboss26&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groudboss26&layout=compact&theme=tokyonight)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=groudboss26&show_icons=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=groudboss26&layout=compact&cache_seconds=1800" />
+</p>
 
 📫 Contato
 - LinkedIn: (https://www.linkedin.com/in/guilherme-silva-5bab36175/)
