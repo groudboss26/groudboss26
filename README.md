@@ -12,9 +12,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=groudboss26)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groudboss26)
 
 📫 Contato
 - LinkedIn: (https://www.linkedin.com/in/guilherme-silva-5bab36175/)
