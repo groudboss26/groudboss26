@@ -14,6 +14,8 @@
 
 ## 📊 Estatísticas do GitHub
 
+## 📊 Estatísticas do GitHub
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=groudboss26&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groudboss26&layout=compact&theme=tokyonight)
